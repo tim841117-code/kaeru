@@ -1,0 +1,3362 @@
+fileFormatVersion: 2
+guid: 520342a4e56208b4c9ab680b7349534d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5932245059125834320
+    second: MORI_0
+  - first:
+      213: 3470726896691943009
+    second: MORI_1
+  - first:
+      213: -7586229236294776390
+    second: MORI_2
+  - first:
+      213: -9214758686633041638
+    second: MORI_3
+  - first:
+      213: 8343221553359984752
+    second: MORI_4
+  - first:
+      213: -5029772811506557867
+    second: MORI_5
+  - first:
+      213: 297751929210390527
+    second: MORI_6
+  - first:
+      213: 3616922597589048460
+    second: MORI_7
+  - first:
+      213: 3130681659482381898
+    second: MORI_8
+  - first:
+      213: 6590925237257613297
+    second: MORI_9
+  - first:
+      213: -7689567685410906286
+    second: MORI_10
+  - first:
+      213: -7365622157992217882
+    second: MORI_11
+  - first:
+      213: 7247843383188547513
+    second: MORI_12
+  - first:
+      213: 5015460301507007630
+    second: MORI_13
+  - first:
+      213: -7956203748043041393
+    second: MORI_14
+  - first:
+      213: 7555112426830844144
+    second: MORI_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MORI_0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 709
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f2cd6371935250800000000000000
+      internalID: 5932245059125834320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 709
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16697bd49bf7a2030800000000000000
+      internalID: 3470726896691943009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 709
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab987f104bc48b690800000000000000
+      internalID: -7586229236294776390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 709
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11ea40ebc99e1080800000000000000
+      internalID: -9214758686633041638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078976a6cc319c370800000000000000
+      internalID: 8343221553359984752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cdb3dd648a23ab0800000000000000
+      internalID: -5029772811506557867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c5c35dc3d12400800000000000000
+      internalID: 297751929210390527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cd06170f3e13230800000000000000
+      internalID: 3616922597589048460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e174ad16a627b20800000000000000
+      internalID: 3130681659482381898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa5e3459ba77b50800000000000000
+      internalID: 6590925237257613297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f92c26eea294590800000000000000
+      internalID: -7689567685410906286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b02b0cad08c990800000000000000
+      internalID: -7365622157992217882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76e920823859460800000000000000
+      internalID: 7247843383188547513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e841668329e7a9540800000000000000
+      internalID: 5015460301507007630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85534d48d2e59190800000000000000
+      internalID: -7956203748043041393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_15
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 645
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0546739b629d860800000000000000
+      internalID: 7555112426830844144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12fa68e886d98c499cc1fece7b5aa49
+      internalID: 42008106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741e2bedaab8f44cb37485e6ad0a96e
+      internalID: -1073428232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09573cde88c7e439ec29f42a3bd898
+      internalID: -1531275168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53170a1b72b2ed54eb7c6049732f3b9b
+      internalID: 503285527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dadede51c602479d7c2f6d6f7ac58
+      internalID: -1159973646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0460b0c4bff2e74db20feb68e6e1654
+      internalID: -1802879716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a6b31f2f61d24893c9f2e3255386f
+      internalID: 1919496987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bcaaaeca709b42a3bfb286b116c2e
+      internalID: -24052846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e359433895dadc4485c08032c386f50
+      internalID: 52926534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3353e967ca0c4982b02caa526c398
+      internalID: 1477176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c075e3f7f8904a865debb96e4be8f
+      internalID: 698726467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c4a1c68dbd4c4689087dbe9d7633e
+      internalID: -1193947865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196d3d919716b844885e34acf9c43cb
+      internalID: -1760247301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3349493da3a182a4085f32c313140d8b
+      internalID: -45943548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a0827aaa2e8b45acb842b029a1358
+      internalID: 1005288866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e918d3aa51a38f449de74842cfc486f
+      internalID: -723953751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 581
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0a3bf3a939e643bda913d4ebfbe2d
+      internalID: 1928214072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5e954593bdcb41bc62d4c3e500d17
+      internalID: 1536053084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef793e8ed432c1459660292d0bdfa7a
+      internalID: -1578513769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f777ca3672c44c89ff8f16ee7a935
+      internalID: -1812661863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02d1a6f8d425445bc211605ffe690b
+      internalID: 133083213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d79896a9d50f48863d11b85165dc3
+      internalID: -166131216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7983128f1cc949abc6c9e3fa4fc42
+      internalID: 779728292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa71fe91d26bc44b11ddb147888e32
+      internalID: -1775245722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502f90b035cb9c40adb0c82e5caa26a
+      internalID: -990141343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea8ed4ccbe5d94e8661cc3961e24fd
+      internalID: 1350689685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_42
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa05c4b5d8f22bf4fbcb454c214384e6
+      internalID: -1913713913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1097be850ee54d9591ffe6fe30a67
+      internalID: -837906563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a08d76bd911ec4293d733cb26ebde9
+      internalID: 151858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_45
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9687df5a29c93654294111f4f4056b48
+      internalID: -745264070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faeeaa2720a04944b56df14624392f4
+      internalID: -1708147192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_47
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0dfde8b4efdae4eadf3265049560cb
+      internalID: -613790531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d720ccecb84743bb8eff6e0864850
+      internalID: -703093479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c9d94ff42b774d975caf367102899
+      internalID: -398386666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790780ac4e9cae9458dbad29468630e1
+      internalID: 462796970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292958451c09bd40bd7ca772987d2be
+      internalID: -1277141301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df75d7273ba3c4289eb4ca95c3a1ac
+      internalID: -929200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839e94829e624d4fab559a2174d50d2
+      internalID: -1260812100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1b3b69e21c704ba9861c5052ff823
+      internalID: 1021604488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a61853522f6d4c88372c955221bc1
+      internalID: -563958073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_56
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866de86fbfc60dd4abfc3a071e660829
+      internalID: 1733773864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d255b06b85ea14e87fc97ac60c7093
+      internalID: 1160967906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b071408f04169468dcd0ab4e2e2be5
+      internalID: -146520866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82304277def9f8d40bd9caea77277a24
+      internalID: -647415126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b5b2724115ae142a964c143bd4971a
+      internalID: -1860770042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9a64456a5e298408a55da822cc9e62
+      internalID: 29031609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64033511d096f694d9d4c1cf81a7e71d
+      internalID: -426088598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ff75da5434b44dbd6d54f3136d3ff
+      internalID: 895867070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3aa283a7d6a044489cb8cac4c2734b
+      internalID: 636509880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf92360be9de64e945aedb6bf6072f
+      internalID: -1744522503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_66
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068d7ee08f646514086ac216755cc43a
+      internalID: 1512943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c3c9b2b606b7469c647075da454c5
+      internalID: 311559383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2afebb3fd75f489999299386ac3c6
+      internalID: -1985313374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8c4253ca57f146b3625b76c21744d
+      internalID: 759602548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c37b82eb41374ab5901173323db0b
+      internalID: -1663866398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd39b81a974fba4e88239b575bd5a22
+      internalID: -418428127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98891ae341a90ef4ca32300b35f30ed5
+      internalID: -1690343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fca1ca65205e5b4fae02c2f9da9cf82
+      internalID: -1563945431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ea6661990bc6347979fb5681cbc97e
+      internalID: 901693978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75241f9f9071e574194a7243c2057eab
+      internalID: -649984701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1da6b18ae039d42a0c55511120c240
+      internalID: -479975534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc632593653a35408e46d196c666345
+      internalID: 872136075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e8e27a0f75fd4f81d5a6444a7ef7c
+      internalID: -2013749970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90c549902dc5a44bf2db37d0da721e
+      internalID: -1502356158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da759ecb73cd1304d8e02438db34ec37
+      internalID: -801506350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7ae2a0c0dc8045a9a20bc943c518e
+      internalID: 1210893495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1fc7287bdaf2943b7f6d7cf2b93170
+      internalID: 734248313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cea70cc34078409ee56ff0bea5ae9
+      internalID: -2101359207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdefdbb36f56c4743b4bb8311872ac03
+      internalID: 810652204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_85
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f36eaf1ce2cf45865efc286ad50b2
+      internalID: -574834555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_86
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2120d11783894ca00137eecd3eee6
+      internalID: -1023193463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e7c6825c396ee41808e82deed24910
+      internalID: -1392523679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad93bd71a6cabf4e9f1f6216adf81e1
+      internalID: -1197417772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ba5f2a4c1c814eacb39e6eeca6899
+      internalID: -1509729846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d5eeae55b0554dbc2ece2da42b4c5
+      internalID: -1159948336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01601f93133184eb560bada5d992a0
+      internalID: -1018583246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd804ea7c5c9b48a8d8e933c55f8e4
+      internalID: -1751080386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41db2d7fc73de4ebeec78fb0c67821
+      internalID: -1891535738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8623af4b57719354b86af5eafe5e62e7
+      internalID: 160666117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f0af1a3e98f44294f51f08d23e41f
+      internalID: -1593313796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_96
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d4f6eab037d54aaed6564dd445f11
+      internalID: -140735191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_97
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fdd1115091aac428fa1222b714473a
+      internalID: 106883353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f8fb333068d3d48b6bda85fdaaebd7
+      internalID: -972122331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6dbb42851edb4abfa305aa895d019
+      internalID: -642326874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f993be7ce9b241a50402817d098f2
+      internalID: 1566202338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3096bb628b404ebb7b5d129e15d97
+      internalID: 1995150686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a653994c3c8b1a498c81eb87c659b31
+      internalID: 1203310467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_103
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0fb5202dca2f44ac2c45a55bb5f1f
+      internalID: 975670959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aaea8909ae30a4d883a7c90e7b9b55
+      internalID: -2030093997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea5ed4d30f6f546b9a662a79b9f52b
+      internalID: 653362933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19955b070d77563418c62699d4fc36e1
+      internalID: 2084381125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c429c40909125c54e8b4699335fe5b71
+      internalID: -2007392135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2089b5296f80a4e8dfe4316c159b07
+      internalID: -1046650848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d162b32d3a6e4b9435ce60af9f05d
+      internalID: 609240543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08ca0950d2d244d88921c9a49b30e0
+      internalID: 1109426473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c82f3fc53353044a9093f222519167
+      internalID: -1718195308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d401be36d9fcf45af05127fbdeb484
+      internalID: 685373387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d334d7767b50b44aa590f3ad087262
+      internalID: 1082754237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd1d78a54c97542bcd0a0bb3f4bc13
+      internalID: 1067029201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_115
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c15e93d3a9d5145ad654e4b9d5d04a
+      internalID: 922929921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_116
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ecef911be77bf4192b6e4dc6c121ed
+      internalID: -1763632848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_117
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b971851726bb2458e467df882af009
+      internalID: 378275580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_118
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052304036cfc2d4e92d2d56b127a974
+      internalID: -2084146582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f49c816d68a4469d6cc5c8f4341d5
+      internalID: -1537718191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e0d283b84fc5c4399267052ecfb3db
+      internalID: 213662917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ddd7e17b7839745bb8bd1ad65c7128
+      internalID: 1556996418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_122
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7bae98551e12b4bb1695069f235da5
+      internalID: -1833852292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_123
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e6b1bfb5acce4682b056af76f6dde
+      internalID: 1555785909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03136876f274f54484325eb7c112f81
+      internalID: -1877221783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e4e46e1fc020e4ab2ef3656aa056e4
+      internalID: -343268886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3a832e6c7b334da94999c66fa3c6a
+      internalID: -2038536268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa35c74aff6194ab987e7a8552c1fd
+      internalID: -49993375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab89b02a8743b49922f4ff78e36dba
+      internalID: -1874388295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_129
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9ce904f36d2243ade44be00b0b074
+      internalID: -1341849998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4623035d1dc52c94f862b3f344695e98
+      internalID: 493802482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7bce663e03d8447832b5dfe7a6d3bd
+      internalID: -862885114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_132
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d92fd082acebd7449d3c7df06058cf3
+      internalID: 160678316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_133
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0026c3b562c95458d1af23daf83b87
+      internalID: 1227649051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2dded133476174cba19af317f37c3c
+      internalID: 1217151500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afecb414932da824ca910dd1968a7ef6
+      internalID: -1252171474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_136
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b5717d334a2d4081139e70e4c2374
+      internalID: -591106459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_137
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aebba790395b9546865db9bf36f428b
+      internalID: 595389013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORI_138
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf7f3116e785344c8f460d8ce19fa0f
+      internalID: 465815218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e4059a6e2587d654c9fdeb0b17cb05a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MORI_0: 5932245059125834320
+      MORI_1: 3470726896691943009
+      MORI_10: -7689567685410906286
+      MORI_100: 1566202338
+      MORI_101: 1995150686
+      MORI_102: 1203310467
+      MORI_103: 975670959
+      MORI_104: -2030093997
+      MORI_105: 653362933
+      MORI_106: 2084381125
+      MORI_107: -2007392135
+      MORI_108: -1046650848
+      MORI_109: 609240543
+      MORI_11: -7365622157992217882
+      MORI_110: 1109426473
+      MORI_111: -1718195308
+      MORI_112: 685373387
+      MORI_113: 1082754237
+      MORI_114: 1067029201
+      MORI_115: 922929921
+      MORI_116: -1763632848
+      MORI_117: 378275580
+      MORI_118: -2084146582
+      MORI_119: -1537718191
+      MORI_12: 7247843383188547513
+      MORI_120: 213662917
+      MORI_121: 1556996418
+      MORI_122: -1833852292
+      MORI_123: 1555785909
+      MORI_124: -1877221783
+      MORI_125: -343268886
+      MORI_126: -2038536268
+      MORI_127: -49993375
+      MORI_128: -1874388295
+      MORI_129: -1341849998
+      MORI_13: 5015460301507007630
+      MORI_130: 493802482
+      MORI_131: -862885114
+      MORI_132: 160678316
+      MORI_133: 1227649051
+      MORI_134: 1217151500
+      MORI_135: -1252171474
+      MORI_136: -591106459
+      MORI_137: 595389013
+      MORI_138: 465815218
+      MORI_14: -7956203748043041393
+      MORI_15: 7555112426830844144
+      MORI_16: 42008106
+      MORI_17: -1073428232
+      MORI_18: -1531275168
+      MORI_19: 503285527
+      MORI_2: -7586229236294776390
+      MORI_20: -1159973646
+      MORI_21: -1802879716
+      MORI_22: 1919496987
+      MORI_23: -24052846
+      MORI_24: 52926534
+      MORI_25: 1477176732
+      MORI_26: 698726467
+      MORI_27: -1193947865
+      MORI_28: -1760247301
+      MORI_29: -45943548
+      MORI_3: -9214758686633041638
+      MORI_30: 1005288866
+      MORI_31: -723953751
+      MORI_32: 1928214072
+      MORI_33: 1536053084
+      MORI_34: -1578513769
+      MORI_35: -1812661863
+      MORI_36: 133083213
+      MORI_37: -166131216
+      MORI_38: 779728292
+      MORI_39: -1775245722
+      MORI_4: 8343221553359984752
+      MORI_40: -990141343
+      MORI_41: 1350689685
+      MORI_42: -1913713913
+      MORI_43: -837906563
+      MORI_44: 151858782
+      MORI_45: -745264070
+      MORI_46: -1708147192
+      MORI_47: -613790531
+      MORI_48: -703093479
+      MORI_49: -398386666
+      MORI_5: -5029772811506557867
+      MORI_50: 462796970
+      MORI_51: -1277141301
+      MORI_52: -929200525
+      MORI_53: -1260812100
+      MORI_54: 1021604488
+      MORI_55: -563958073
+      MORI_56: 1733773864
+      MORI_57: 1160967906
+      MORI_58: -146520866
+      MORI_59: -647415126
+      MORI_6: 297751929210390527
+      MORI_60: -1860770042
+      MORI_61: 29031609
+      MORI_62: -426088598
+      MORI_63: 895867070
+      MORI_64: 636509880
+      MORI_65: -1744522503
+      MORI_66: 1512943375
+      MORI_67: 311559383
+      MORI_68: -1985313374
+      MORI_69: 759602548
+      MORI_7: 3616922597589048460
+      MORI_70: -1663866398
+      MORI_71: -418428127
+      MORI_72: -1690343138
+      MORI_73: -1563945431
+      MORI_74: 901693978
+      MORI_75: -649984701
+      MORI_76: -479975534
+      MORI_77: 872136075
+      MORI_78: -2013749970
+      MORI_79: -1502356158
+      MORI_8: 3130681659482381898
+      MORI_80: -801506350
+      MORI_81: 1210893495
+      MORI_82: 734248313
+      MORI_83: -2101359207
+      MORI_84: 810652204
+      MORI_85: -574834555
+      MORI_86: -1023193463
+      MORI_87: -1392523679
+      MORI_88: -1197417772
+      MORI_89: -1509729846
+      MORI_9: 6590925237257613297
+      MORI_90: -1159948336
+      MORI_91: -1018583246
+      MORI_92: -1751080386
+      MORI_93: -1891535738
+      MORI_94: 160666117
+      MORI_95: -1593313796
+      MORI_96: -140735191
+      MORI_97: 106883353
+      MORI_98: -972122331
+      MORI_99: -642326874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
